@@ -1,4 +1,4 @@
-# Deep Dive Session 1 — 12 April 2026
+# Deep Dive Session 1 — 11 April 2026
 
 **Aperture:** The 1908 Hanoi garrison poisoning plot
 **Thread endpoint:** Whether the tools of resistance are always pre-contaminated — and what that means for revolution at any scale
